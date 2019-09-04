@@ -1,4 +1,4 @@
-# photocatalytic_degradation
+# Photocatalytic Degradation Companion Tool
 A companion tool for analysis of photocatalytic degradations studies in VOC-72M gas analyser or similar equipement.
 
 # Why?
